@@ -14,5 +14,10 @@ namespace GITREPOTEST.Controllers
         {
             return View();
         }
+
+        public ActionResult Show()
+        {
+            return View();
+        }
 	}
 }
